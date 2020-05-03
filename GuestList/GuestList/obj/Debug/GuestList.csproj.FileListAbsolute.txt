@@ -1,0 +1,10 @@
+C:\Users\Andrew\source\repos\GuestList\GuestList\obj\Debug\GuestList.Form1.resources
+C:\Users\Andrew\source\repos\GuestList\GuestList\obj\Debug\GuestList.Properties.Resources.resources
+C:\Users\Andrew\source\repos\GuestList\GuestList\obj\Debug\GuestList.csproj.GenerateResource.Cache
+C:\Users\Andrew\source\repos\GuestList\GuestList\obj\Debug\GuestList.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\GuestList\GuestList\bin\Debug\GuestList.exe.config
+C:\Users\Andrew\source\repos\GuestList\GuestList\bin\Debug\GuestList.exe
+C:\Users\Andrew\source\repos\GuestList\GuestList\bin\Debug\GuestList.pdb
+C:\Users\Andrew\source\repos\GuestList\GuestList\obj\Debug\GuestList.exe
+C:\Users\Andrew\source\repos\GuestList\GuestList\obj\Debug\GuestList.pdb
+C:\Users\Andrew\source\repos\GuestList\GuestList\obj\Debug\GuestList.csprojResolveAssemblyReference.cache

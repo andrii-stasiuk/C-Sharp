@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="tbl" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="tbl">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="NameField" type="xs:string" minOccurs="0" />
+                <xs:element name="SexField" type="xs:string" minOccurs="0" />
+                <xs:element name="InvitedField" type="xs:boolean" minOccurs="0" />
+                <xs:element name="RespondedField" type="xs:boolean" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <tbl>
+    <NameField>Antoni Porowski</NameField>
+    <SexField>male</SexField>
+    <InvitedField>true</InvitedField>
+  </tbl>
+  <tbl>
+    <NameField>Michał Coganianu</NameField>
+    <SexField>male</SexField>
+    <InvitedField>true</InvitedField>
+    <RespondedField>true</RespondedField>
+  </tbl>
+  <tbl>
+    <NameField>Henryk Drygalski</NameField>
+    <SexField>male</SexField>
+    <InvitedField>true</InvitedField>
+  </tbl>
+  <tbl>
+    <NameField>Artur Urbański</NameField>
+    <SexField>male</SexField>
+    <InvitedField>true</InvitedField>
+    <RespondedField>true</RespondedField>
+  </tbl>
+  <tbl>
+    <NameField>Mikołaj Radwan</NameField>
+    <SexField>male</SexField>
+    <InvitedField>false</InvitedField>
+  </tbl>
+  <tbl>
+    <NameField>Irena Anders</NameField>
+    <SexField>female</SexField>
+    <InvitedField>true</InvitedField>
+  </tbl>
+  <tbl>
+    <NameField>Julia Chmielnik</NameField>
+    <SexField>female</SexField>
+    <InvitedField>true</InvitedField>
+    <RespondedField>true</RespondedField>
+  </tbl>
+  <tbl>
+    <NameField>Violetta Villas</NameField>
+    <SexField>female</SexField>
+    <InvitedField>true</InvitedField>
+  </tbl>
+  <tbl>
+    <NameField>Alicja Mojko</NameField>
+    <SexField>female</SexField>
+    <InvitedField>true</InvitedField>
+    <RespondedField>true</RespondedField>
+  </tbl>
+  <tbl>
+    <NameField>Agata Nizińska</NameField>
+    <SexField>female</SexField>
+    <InvitedField>false</InvitedField>
+  </tbl>
+</NewDataSet>
