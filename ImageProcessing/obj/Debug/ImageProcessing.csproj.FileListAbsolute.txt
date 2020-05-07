@@ -1,0 +1,10 @@
+C:\Users\Andrew\source\repos\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\Andrew\source\repos\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Andrew\source\repos\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Andrew\source\repos\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\Andrew\source\repos\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Andrew\source\repos\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Andrew\source\repos\ImageProcessing\obj\Debug\ImageProcessing.pdb
